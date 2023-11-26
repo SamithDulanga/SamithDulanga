@@ -4,7 +4,7 @@
 
 ### Fullstack Software Engineer
 
-![ezgif com-resize](https://github.com/SamithDulanga/assets/112160411/2afe8a85-8fab-4f3e-b4bd-d1d7f969277c)
+![ezgif com-resize](https://github.com/SamithDulanga/SamithDulanga/assets/112160411/2afe8a85-8fab-4f3e-b4bd-d1d7f969277c)
 
 ## Contact Me
 
