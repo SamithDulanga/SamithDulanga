@@ -12,7 +12,7 @@
     <img src="./assets/linkedin.svg" width="40" height="40" alt="linkedin logo"  />
   </a>
   
-  <a href="https://discord.com/channels/Subhash#5290" target="_blank">
+  <a href="https://discord.com/users/1135128164138504252" target="_blank">
     <img src="./assets/Discord.svg" width="40" height="40" alt="discord logo"  />
   </a>
 
