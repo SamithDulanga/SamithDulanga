@@ -9,20 +9,15 @@
 ## Contact Me
 
   <a href="https://www.linkedin.com/in/samith-dulanga-49b13323a/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"        width="32" height="32" alt="linkedin logo"  />
+    <img src="./assets/linkedin.svg" width="40" height="40" alt="linkedin logo"  />
   </a>
   
   <a href="https://discord.com/channels/Subhash#5290" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"         width="32" height="32" alt="discord logo"  />
+    <img src="./assets/Discord.svg" width="40" height="40" alt="discord logo"  />
   </a>
-  
-  <!-- <a href="https://twitter.com/chamara_subhash?t=e7Qt_Z5c0eEg426tqdXxrQ&s=09" target="_blank">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"         width="32" height="32" alt="twitter logo"/>
-  </a> -->
-    
-  
+
   <a href="mailto:dulangasamith@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"           width="32" height="32" alt="gmail logo"  />
+    <img src="./assets/Email.svg" width="40" height="40" alt="gmail logo"  />
   </a>
 
 ## About Me
