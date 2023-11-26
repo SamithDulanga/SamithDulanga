@@ -78,7 +78,7 @@ Here are some of the technologies and frameworks I work with:
 
 ## Operating Systems
 
-![ubuntu](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/Ubuntu.png)
+![ubuntu](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/Ubuntu.svg)
 ![windows](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/Windows.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamithDulanga&show_icons=true&theme=radical)
