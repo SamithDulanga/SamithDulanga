@@ -35,6 +35,7 @@ I love working with the following languages and technologies:
 ## Languages
 
 ![java (4)](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/Java.svg)
+
 ![java-script](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/JavaScript.svg)
 ![html-5](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/HTML.svg)
 ![css-3](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/CSS.svg)
@@ -78,7 +79,7 @@ Here are some of the technologies and frameworks I work with:
 ## Operating Systems
 
 ![ubuntu](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/Ubuntu.png)
-![windows](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/Windows.png)
+![windows](https://github.com/SamithDulanga/SamithDulanga/blob/main/assets/Windows.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamithDulanga&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamithDulanga&layout=compact)
